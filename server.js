@@ -9,7 +9,7 @@ app.use(cors());
 const PORT = process.env.PORT || 3001;
 const handleHome = require('./handleHome');
 const Weather = require('./Weather');
-
+const Movie = require('./Movie');
 
 app.get('/', handleHome);
 
