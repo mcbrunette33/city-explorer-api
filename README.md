@@ -29,3 +29,7 @@
 - Finish time:
 
 - Actual time needed to complete:
+
+![wrrc3](./imgs/wrrc-3%20(1).png)
+![wrrc1](./imgs/wrrc1.png)
+![wrrc2](./imgs/wrrc2.png)
