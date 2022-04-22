@@ -28,8 +28,20 @@
 
 - Finish time:
 
-- Actual time needed to complete:
+- Actual time needed to complete:3 hrs
 
 ![wrrc3](./imgs/wrrc-3%20(1).png)
 ![wrrc1](./imgs/wrrc1.png)
 ![wrrc2](./imgs/wrrc2.png)
+
+Name of feature: lab 10
+
+- Estimate of time needed to complete: 3 hrs
+
+- Start time: 1400
+
+- Finish time: 1630
+
+- Actual time needed to complete:3 hrs
+
+![WRRC4](./imgs/WRRC4.png)
